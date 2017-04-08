@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "Baemax",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -14,8 +14,8 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Purdue IEEE Computer Society",
+  "license": "MIT",
   "devDependencies": {
     "electron": "~1.6.2"
   }
